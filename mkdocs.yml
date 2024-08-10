@@ -1,5 +1,9 @@
 site_name: Ippitsu Suzuki
 theme: readthedocs
 
+extra:
+  favicon: 'favicon.ico'
+  apple_touch_icon: 'apple-touch-icon.png'
+
 extra_javascript:
   - https://ippitsu-suzuki.disqus.com/embed.js
