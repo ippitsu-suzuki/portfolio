@@ -1,2 +1,5 @@
 site_name: Ippitsu Suzuki
 theme: readthedocs
+
+extra_css:
+  - 'assets/stylesheets/extra.css'
