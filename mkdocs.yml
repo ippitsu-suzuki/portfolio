@@ -1,2 +1,5 @@
 site_name: Ippitsu Suzuki
 theme: readthedocs
+
+extra_javascript:
+  - https://ippitsu-suzuki.disqus.com/embed.js

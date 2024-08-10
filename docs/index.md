@@ -17,3 +17,7 @@ I mainly develop frontend stuff.
 
 ## Contact
 - [GitHub](https://github.com/ippitsu-suzuki)
+
+---
+
+<div id="disqus_thread"></div>
