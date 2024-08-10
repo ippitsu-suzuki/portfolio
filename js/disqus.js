@@ -1,6 +1,6 @@
 var disqus_config = function () {
-    this.page.url = window.location.href;  // ページのURLを動的に取得
-    this.page.identifier = document.title; // ページのタイトルを識別子として使用
+    this.page.url = window.location.href;
+    this.page.identifier = document.title;
 };
 
 (function() {
