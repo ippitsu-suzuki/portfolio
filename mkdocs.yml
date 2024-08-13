@@ -1,5 +1,7 @@
 site_name: Ippitsu Suzuki
-theme: readthedocs
+theme: 
+  name: 'readthedocs'
+  favicon: favicon.ico
 
 extra_javascript:
   - https://ippitsu-suzuki.disqus.com/embed.js
