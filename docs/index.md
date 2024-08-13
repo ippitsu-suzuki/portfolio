@@ -23,8 +23,8 @@ I mainly develop frontend stuff.
 [![My Skills](https://skillicons.dev/icons?i=react)](https://skillicons.dev)
 
 ## Languages
-![English](https://img.shields.io/badge/English-%230080FF.svg?style=for-the-badge&logo=English&logoColor=white)
-![Japanese](https://img.shields.io/badge/Japanese-%23FF4B00.svg?style=for-the-badge&logo=Japanese&logoColor=white)
+- Japanese(Native)
+- English(Fluent)
 
 ---
 
